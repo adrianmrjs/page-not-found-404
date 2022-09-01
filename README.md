@@ -31,7 +31,7 @@
 
 ## Overview
 
-![screenshot](/assets/img/readme/screencapture-127-0-0-1-5500-index-html-2022-09-01-01_12_03%201.png)
+![screenshot](/assets/img/readme/mockup.png)
 
 
 ### Built With
