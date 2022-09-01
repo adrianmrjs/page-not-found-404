@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Not error 404 challenge }</h1>
+<h1 align="center">Not error 404 challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://vercel.com/adrianrjss/page-not-found-404">
+    <a href="https://page-not-found-404.vercel.app">
       Solution
     </a>
     <span> | </span>
